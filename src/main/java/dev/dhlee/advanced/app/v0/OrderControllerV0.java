@@ -1,4 +1,4 @@
-package dev.dhlee.advanced.v0;
+package dev.dhlee.advanced.app.v0;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
